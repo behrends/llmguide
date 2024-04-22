@@ -1,6 +1,10 @@
-## Notes for workshops
+# LLM Guide
 
-Built with [NextJS](https://nextjs.org/) and [Nextra](https://nextra.vercel.app/) 
+Guide for working with LLMs.
+
+## Info
+
+Built with [Next.js](https://nextjs.org) and [Nextra](https://nextra.site) 
 by using Git/GitHub as a single source of truth, and 
 [Vercel](https://www.vercel.com) for deployment.
 
