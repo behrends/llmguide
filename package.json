@@ -1,0 +1,20 @@
+{
+  "name": "llmguide",
+  "version": "1.0.0",
+  "description": "Guide for working with LLMs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Erik Behrends",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.2.2",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
