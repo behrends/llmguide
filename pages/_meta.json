@@ -1,5 +1,7 @@
 {
   "index": "Einstieg",
+  "links": "Linksammlung",
+  "test-prompts": "LLMs mit Prompts testen",
   "impressum": {
     "title": "Impressum",
     "type": "page",
