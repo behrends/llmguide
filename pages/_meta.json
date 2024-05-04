@@ -1,6 +1,7 @@
 {
   "index": "Einstieg",
   "links": "Linksammlung",
+  "wordle": "Wordle zu schwer für LLMs",
   "test-prompts": "LLMs mit Prompts testen",
   "impressum": {
     "title": "Impressum",
